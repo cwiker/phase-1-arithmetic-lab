@@ -1,2 +1,4 @@
+num1 = 6;
+num2 = 7;
 
-// Write your code here
+let multiply = num1 * num2;
